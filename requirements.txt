@@ -1,0 +1,18 @@
+# Note: Google Colab has most packages pre-installed
+# These are for reference and local development (if needed)
+
+# CUDA Libraries (pre-installed on Colab)
+# numba
+# cupy-cuda11x (Colab uses CUDA 11.x or 12.x)
+
+# Scientific Computing (pre-installed on Colab)
+# numpy
+# scipy
+# matplotlib
+
+# For local testing/development only:
+# If you want to test notebooks locally without GPU, install:
+# jupyter
+# notebook
+# numpy
+# matplotlib
